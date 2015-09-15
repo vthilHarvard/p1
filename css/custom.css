@@ -1,6 +1,19 @@
 ﻿.jumbotron {
-    border: 2px solid blue;
+    border: 2px solid #4E83B8;
     padding: 3px 0 3px 0;
-    color: azure;
     margin-top: 4px;
+}
+
+    .jumbotron h1,
+    .jumbotron h1 .text-info,
+    .jumbotron .h1,
+    .jumbotron h1:hover,
+    .jumbotron .h1:hover {
+        color: mediumturquoise;
+    }
+
+footer {
+    background-color:black;
+    padding: 10px 0 10px 0;
+    margin: 10px 0;
 }
