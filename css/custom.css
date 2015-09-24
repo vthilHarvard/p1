@@ -17,3 +17,7 @@ footer {
     padding: 10px 0 10px 0;
     margin: 10px 0;
 }
+
+table, .table, th, td{
+  font-size: 16px;
+}
